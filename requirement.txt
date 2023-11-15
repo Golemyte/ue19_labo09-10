@@ -1,0 +1,4 @@
+# Requirements : 
+- a pc
+- docekr,
+- Python
