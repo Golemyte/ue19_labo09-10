@@ -14,3 +14,6 @@
 
    ```bash
    docker build -t jokeapi .
+## command : 
+   ```bash
+   docker run -it --rm jokeapi
