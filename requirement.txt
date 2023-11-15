@@ -1,4 +1,1 @@
-# Requirements : 
-- a pc
-- docekr,
-- Python compiler 3.+
+Docker
