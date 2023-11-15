@@ -1,4 +1,4 @@
 # Requirements : 
 - a pc
 - docekr,
-- Python
+- Python compiler 3.+
